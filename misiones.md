@@ -1,3 +1,4 @@
 # Misiones
 
-* Incestigar los planes de EddWar
+* Investigar los planes de EddWar
+* Capturar a Red Skull
